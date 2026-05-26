@@ -1,6 +1,7 @@
 {
   "cli": {
-    "version": ">= 12.0.0"
+    "version": ">= 12.0.0",
+    "appId": "73f982b6-52bd-4828-98e6-e910fbd6efd9"
   },
   "build": {
     "development": {
