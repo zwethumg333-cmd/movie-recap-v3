@@ -11,6 +11,11 @@
     "android": {
       "package": "com.zwethumg.movierecapapp"
     },
-    "owner": "zwethumg333-cmd"
+    "owner": "zwethumg333-cmd",
+    "extra": {
+      "eas": {
+        "projectId": "73f982b6-52bd-4828-98e6-e910fbd6efd9"
+      }
+    }
   }
 }
