@@ -6,7 +6,10 @@
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "android": {
-      "package": "com.zwethumg.movierecapapp"
+      "package": "com.zwethumg.movierecapapp",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
     },
     "owner": "zwethu",
     "extra": {
