@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Movie Recap v3",
+    "slug": "movie-recap-v3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.zwethumg.movierecapapp"
+    },
+    "owner": "zwethumg333-cmd"
+  }
+}
